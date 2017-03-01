@@ -1,4 +1,4 @@
-# M07 Guestbook Example
+# W07 Guestbook Example
 
 A simple guest book using Node, Express, BootStrap, EJS
 
